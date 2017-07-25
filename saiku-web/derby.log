@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+2017-07-11 20:05:26.373 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-015d-3341-a492-000044390ab8
+on database directory /Users/edward/liuxh/project/yibo/saikuv3/saiku-web/repository/data/version/db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2017-07-11 20:05:27.357 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 9a4840c2-015d-3341-a492-000044390ab8
+on database directory /Users/edward/liuxh/project/yibo/saikuv3/saiku-web/repository/data/workspaces/default/db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2017-07-11 20:05:28.039 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 247b4177-015d-3341-a492-000044390ab8
+on database directory /Users/edward/liuxh/project/yibo/saikuv3/saiku-web/repository/data/workspaces/security/db  
+
+Database Class Loader started - derby.database.classpath=''
